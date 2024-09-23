@@ -9,7 +9,7 @@
 ### Review Articles
 
 - **Plume Tracing via Model-Free Reinforcement Learning Method**
- **[`IEEE Transactions on Neural Networks and Learning Systems`]** *Hangkai Hu, Erik-jan van Kampen* [( IEEE 2019)](https://ieeexplore.ieee.org/document/8598800) [(pdf)](https://github.com/khanRmahmud/PaperNotes/blob/main/Paper%20Reading/Reinforcement%20Learning/paper-pdf/Plume_Tracing_via_Model-Free_Reinforcement_Learning_Method.pdf) [(Notes)]([./AD_notes/llm_survey.md](https://github.com/khanRmahmud/PaperNotes/blob/main/Paper%20Reading/Reinforcement%20Learning/plumeTracingDDPG.md))
+ **[`IEEE Transactions on Neural Networks and Learning Systems`]** *Hangkai Hu, Erik-jan van Kampen* [( IEEE 2019)](https://ieeexplore.ieee.org/document/8598800) [(pdf)](https://github.com/khanRmahmud/PaperNotes/blob/main/Paper%20Reading/Reinforcement%20Learning/paper-pdf/Plume_Tracing_via_Model-Free_Reinforcement_Learning_Method.pdf) [(Notes)](./Reinforcement%20Learning/plumeTracingDDPG.md)
 
 
 <br />
