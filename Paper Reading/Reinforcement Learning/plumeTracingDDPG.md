@@ -1,3 +1,2 @@
-- **Deep reinforcement learning with symmetric data augmentation applied for
-  aircraft lateral attitude tracking control**
- **[`arXiv 2024`]** *Yifei Li, Erik-jan van Kampen* [(arXiv)](http://arxiv.org/abs/2407.11077) [(pdf)]() [(Notes)]() (Citation: )
+- **Plume Tracing via Model-Free Reinforcement Learning Method**
+ **[`IEEE 2019`]** *Hangkai Hu, Erik-jan van Kampen* [(IEEE[)](http://arxiv.org/abs/2407.11077](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8598800)) [(pdf)](https://github.com/khanRmahmud/PaperNotes/blob/main/Paper%20Reading/Reinforcement%20Learning/paper-pdf/Plume_Tracing_via_Model-Free_Reinforcement_Learning_Method.pdf) [(Notes)]() (Citation: )
