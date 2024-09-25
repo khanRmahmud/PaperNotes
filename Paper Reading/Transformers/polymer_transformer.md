@@ -70,6 +70,6 @@ memory polymers**
     <img src="./images/SMP-polymer-table-1.PNG" width="80%">
     </p>
 
-    - Actual and predicted strain Graph in response of time (time from 260 to 340 (min)) of 8 different models od dataset 1 and 2.
+    - Actual and predicted strain Graph in response of time (time from 260 to 340 (min)) of 8 different models of dataset 1 and 2.
 
 
