@@ -1,4 +1,4 @@
-**Plume Tracing via Model-Free Reinforcement Learning Method** [(citation)](./Reinforcement%20Learning/plumeTracingDDPG.md)
+**Plume Tracing via Model-Free Reinforcement Learning Method** [(notes)](./Reinforcement%20Learning/plumeTracingDDPG.md)
 
 
 @ARTICLE{8598800,
@@ -13,7 +13,7 @@
   doi={10.1109/TNNLS.2018.2885374}}
 
 
-**Deep learning for predicting the thermomechanical behavior of shape memory polymers** [(citation)](./Transformers/polymer_transformer.md)
+**Deep learning for predicting the thermomechanical behavior of shape memory polymers** [(notes)](./Transformers/polymer_transformer.md)
 
 
 @article{SEGURAIBARRA2022125395,
@@ -27,4 +27,18 @@ doi = {https://doi.org/10.1016/j.polymer.2022.125395},
 url = {https://www.sciencedirect.com/science/article/pii/S0032386122008825},
 author = {Diego {Segura Ibarra} and Jacob Mathews and Fan Li and Hongfang Lu and Guoqiang Li and Jinyuan Chen},
 keywords = {Shape memory polymer, Deep learning, Thermomechanical behavior},
+}
+
+
+**Continuous control with deep reinforcement learning** [(notes)](./Reinforcement%20Learning/ddpg.md)
+
+
+@misc{lillicrap2019continuouscontroldeepreinforcement,
+      title={Continuous control with deep reinforcement learning}, 
+      author={Timothy P. Lillicrap and Jonathan J. Hunt and Alexander Pritzel and Nicolas Heess and Tom Erez and Yuval Tassa and David Silver and Daan Wierstra},
+      year={2019},
+      eprint={1509.02971},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/1509.02971}, 
 }
