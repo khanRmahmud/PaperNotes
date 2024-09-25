@@ -28,7 +28,24 @@ memory polymers**
     - There was lack of predict the research of using ML to predict the thermomechanical behavior of SMPs.
 
 - **Objective**
-    - The objective is to predict the change in strain of an SMP as a function of time, temperature, and external load.
+    - The objective is to predict the change in strain of an SMP as a function of time, temperature, and external load (stress).
     - Since the variable to be predicted is a time dependent variable, DL models for time series forecasting are suitable to make the prediction.
+
+-**Dataset**
+    - Data obtained from the TMA of crosslinked cis polybutadiene (cPBD) is divided into **2 datasets**. It includes: stress and temperature (these are controlled variables, are determined before performing TMA), and strain (depends on the changes of stress and temperature over time).
+    - **INPUTS** controlled variables: time, temperature, and stress.
+        - **Format of Input: splitting and sequencing** time, temperature and stress values at that moment, the historical values of time, temperature and stress values that led up to that moment must also be provided.
+
+  <p align="center">
+  <img src="./images/SMP-polymer-DL.PNG" width="70%">
+  </p>
+
+        - The number of instances present in each sequence is labeled as n.
+        - Splitting the data as such, removes some of the initial output values. if three instances are used (like in Fig. above), then the first input will have the first three instances of time, temperature, and stress values, and the output would be the strain value corresponding to the third instance of time, temperature, and stress.
+
+        - **Risk of choosing large n:** choosing a large n runs the risk of forgetting many initial strain values.
+        - each DL model used a different n. 
+
+    - **OUTPUTS** strain
 
 
